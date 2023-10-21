@@ -11,6 +11,10 @@ import java.util.Random;
 
 public class BetaEncoding
   {
+    public void Encode()
+    {
+      
+    }
     public static void main(String [] args)
     {
       // initialize variables
@@ -44,4 +48,6 @@ public class BetaEncoding
 
       
     }
+
+    
   }
