@@ -1,8 +1,8 @@
 # EncryptEncode
 Practice project to encode a message into binary digits, and create a lossless encryption and decryption
 
-Checklist:\n
-[] public class for data storage? More secure\n
+Checklist:
+[] public class for data storage? More secure
 
-Completed:\n
-[x] create outline for driver\n
+Completed:
+[x] create outline for driver
